@@ -13,7 +13,7 @@ import java.util.Date;
 import java.util.LinkedList;
 
 /**
- * Created by Marcel Feuß on 20.07.2017.
+ * Created by **** on 20.07.2017.
  */
 public class AsyncPlayerChatListener implements Listener {
 
