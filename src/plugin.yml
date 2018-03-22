@@ -1,0 +1,12 @@
+name: ChatLogger3000
+author: ByteGames
+version: 1.0
+main: net.ByteGames.ChatLogger.ChatLog
+
+commands:
+  chatlog:
+    description: You can see all messages that a player wrotes.
+
+permissions:
+  chatlog.see:
+    default: OP
