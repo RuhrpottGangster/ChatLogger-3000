@@ -4,7 +4,7 @@ import java.util.LinkedHashMap;
 import java.util.LinkedList;
 
 /**
- * Created by Marcel Feuß on 19.07.2017.
+ * Created by **** on 19.07.2017.
  */
 public class Variables {
 
