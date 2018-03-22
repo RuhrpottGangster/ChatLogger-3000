@@ -8,7 +8,7 @@ import org.bukkit.command.CommandExecutor;
 import org.bukkit.command.CommandSender;
 
 /**
- * Created by Marcel Feuß on 20.07.2017.
+ * Created by **** on 20.07.2017.
  */
 public class ChatLogCommand implements CommandExecutor {
 
