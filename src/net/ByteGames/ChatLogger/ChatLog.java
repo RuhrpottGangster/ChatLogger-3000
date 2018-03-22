@@ -7,7 +7,7 @@ import org.bukkit.plugin.PluginManager;
 import org.bukkit.plugin.java.JavaPlugin;
 
 /**
- * Created by Marcel Feuß on 19.07.2017.
+ * Created by **** on 19.07.2017.
  */
 public class ChatLog extends JavaPlugin {
 
